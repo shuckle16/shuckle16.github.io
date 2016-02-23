@@ -3,3 +3,9 @@ h1,h3,a {
 	font-family: source-serif-pro;
 	text-decoration: none;
 }
+
+p {
+	font-family: source-serif-pro;
+	text-align: left;
+	margin: auto;
+}
