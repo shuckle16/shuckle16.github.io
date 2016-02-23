@@ -4,6 +4,7 @@ html {
   font-weight: 400;
   font-family: source-serif-pro;
   color: #222;
+  max-width: 1000px;
 }
 
 h1,h3,a {
