@@ -5,6 +5,7 @@ html {
   font-family: source-serif-pro;
   color: #222;
   max-width: 1000px;
+  padding: 0px 20px;
 }
 
 h1,h3,a {
