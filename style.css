@@ -8,6 +8,12 @@ p {
 	font-family: source-serif-pro;
 	text-align: left;
 	margin: auto;
+
+}
+
+@media (min-width: 400px) {
+    width: 90%;
+    padding: 0; 
 }
 
 @media (min-width: 550px) {
