@@ -2,3 +2,9 @@
 	font-family: source-serif-pro;
 	src: url('fonts/SourceSerifPro-Regular.otf');
 }
+
+@font-face {
+	font-family: source-serif-pro;
+	src: url("fonts/SourceSerifPro-Bold.otf");
+	font-weight: bold;
+}
