@@ -23,6 +23,10 @@ a {
 	text-decoration: none;
 	color: #428bca;
 }
+
+.date {
+	color: #888888;
+}
  
 @media (max-width: 480px) {
    html { padding: 0% 4%;}
