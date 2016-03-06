@@ -28,6 +28,7 @@ a {
 .date {
 	color: #888888;
 	float: right;
+	margin-bottom: 1.5em;
 }
  
 @media (max-width: 480px) {
