@@ -27,7 +27,7 @@ a {
 
 .date {
 	color: #888888;
-	align: right;
+	text-align: right;
 }
  
 @media (max-width: 480px) {
